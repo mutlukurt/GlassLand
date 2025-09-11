@@ -165,12 +165,12 @@ const Footer: React.FC = () => {
           <div className="border-t border-white/20 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-emerald-100 text-sm flex items-center gap-2">
-                © {currentYear} GlassLand. Made with{' '}
+                © {currentYear} Mutlu Kurt. Made with{' '}
                 <Heart className="w-4 h-4 text-red-400 fill-current" />{' '}
                 for the web.
               </p>
               <p className="text-emerald-100 text-sm">
-                Glassmorphism Design System • Premium Quality
+                MIT License • Glassmorphism Design System
               </p>
             </div>
           </div>
